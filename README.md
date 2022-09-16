@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar.](htts://rosendo2015.github.io/nlw-esports-explorer)
+<a href="htts://rosendo2015.github.io/nlw-esports-explorer">[Clique aqui para acessar.]</a>
 
 ##  Tecnologias
 
